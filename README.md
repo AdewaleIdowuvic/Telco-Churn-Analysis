@@ -135,3 +135,9 @@ Integrate qualitative data from customer feedback, support tickets, and exit sur
 #### A/B Testing of Strategies
 Design and execute A/B tests for various proposed retention strategies to scientifically measure their effectiveness and optimize resource allocation.
 
+
+📊 **ANALYST**
+
+**ADEWALE IDOWU VICTOR**
+
+https://www.linkedin.com/in/adewale-idowu-0880a4164?
