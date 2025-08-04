@@ -1,4 +1,5 @@
 # Telco-Churn-Analysis
+
 Business intelligence project on telecom churn using Power BI, Power Query, and Excel
 
 ## Introduction
@@ -43,6 +44,10 @@ Used for initial data cleaning, preparation.
 
 #### Data Analysis & Visualization 
 
+
+<img width="1021" height="540" alt="Image" src="https://github.com/user-attachments/assets/9cd782ad-1168-4d33-b27c-e1a75e2ffbad" />
+
+
 ## Key Insights Derived
 
 Through the analysis of customer data, several critical insights were uncovered;
@@ -56,6 +61,7 @@ A compelling 88.55% of all churn originates from monthly subscribers. This insig
 #### Service Type 
 Customers using Fiber Optic internet services exhibit the highest churn rate at 42%. The analytical dashboard suggests this is most likely due to its cost as it is the most expensive internet service, pointing towards potential pricing issues or a dissapointmenr in service provision when weighed againt what it charges.
 
+<img width="1170" height="543" alt="Image" src="https://github.com/user-attachments/assets/213897c2-634d-4fa9-8e5f-57345c14fb61" />
 
 #### Tenure by churn pattern
 Customer churn varies significantly by how long they've been with the company:
@@ -65,6 +71,10 @@ Customer churn varies significantly by how long they've been with the company:
 • Medium-term customers (equal to or below 24 months tenure) have a notable churn rate of 28.71%.
 
 • Long-term customers ( above 24 months tenure) show the lowest churn rate at 14.04%, suggesting higher loyalty or satisfaction over time.
+
+
+<img width="896" height="1439" alt="Image" src="https://github.com/user-attachments/assets/52a68e38-6033-4e5f-9466-666fcedf08b4" />
+
   
 #### Revenue at Risk
 Long term customers generate 89% of the total revenue ($14.3M). This insight is crucial: while short-term customers churn more frequently, the loss of a long-term customer has a much higher financial impact, underscoring the vital importance of retaining this high value segment.
@@ -109,7 +119,7 @@ Conduct user experience research or surveys specifically for customers using Ele
 Identify high value customers at risk of churning using predictive models and deploy a specialized retention team with personalized offers and improved customer service to prevent their attrition.
 
 
-## Future Works and Future recommendation
+## Future Works and recommendation
 
 To further enhance this churn analysis and drive more impactful business outcomes, these steps are highly recommended:
 
